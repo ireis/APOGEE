@@ -3,7 +3,9 @@ https://nbviewer.jupyter.org/github/ireis/APOGEE_tSNE_nb/blob/master/APOGEE_tSNE
 
 
 Examples for using the data products from:
+
 Detecting outliers and learning complex structures with large spectroscopic surveys – a case study with APOGEE stars
+
 https://academic.oup.com/mnras/article/476/2/2117/4848309
 
 The examples include:
