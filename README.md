@@ -1,8 +1,8 @@
 # APOGEE_tSNE_nb
 https://nbviewer.jupyter.org/github/ireis/APOGEE_tSNE_nb/blob/master/APOGEE_tSNE_and_NN.ipynb
 
-![effective_temperature][teff.png]
-![weirdness score][w.png]
+![effective_temperature](teff.png)
+![weirdness score](w.png)
 
 Examples for using the data products from:
 
